@@ -24,6 +24,23 @@ Workflow
 
 *Our work mainly focuses on the last two items.*
 
+**Compare With Other Software**
+# PDFTables
+  When converting a PDF to a spreadsheet, an algorithm is used which examines the structures in the PDF. It understands the spacing
+  between items to identify the rows and columns, much as human’s eye does when scanning a page.  It is designed to work reliably with
+  large quantities of data to produce the best output from given PDF. 
+# PDFtoXLS
+  This includes several steps. Quality Conversions. Table Recovery. Headers and Footers. Form Recognition. Rotated Text Recovery. Hyper-
+  -link Detection. Merging logical tables. List detection. OCR. It is able to extract comparatively complete information from pdf files.
+# SimplyPDF
+  It is a free and easy way to use online PDF to XLS converter to extract tables trapped in PDF files, without having to install any
+  software. This software is capable of extracting relatively complicated tables.
+ 
+All the testing result can be seen in the paperfile.
+
+
+*All software here are not open-source and require pricing except SimplyPDF.*
+
 
 COPYRIGHT
 -----------------------------------------------------------
