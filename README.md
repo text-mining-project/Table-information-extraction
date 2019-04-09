@@ -37,10 +37,10 @@ Workflow
   It is a free and easy way to use online PDF to XLS converter to extract tables trapped in PDF files, without having to install any
   software. This software is capable of extracting relatively complicated tables.
  
-All the testing result can be seen in the paperfile.
+-All the testing result can be seen in the paperfile.
 
 
-*All software here are not open-source and require pricing except SimplyPDF.*
+-*All software here are not open-source and require pricing except SimplyPDF.*
 
 
 
