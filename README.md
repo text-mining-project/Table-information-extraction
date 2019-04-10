@@ -19,9 +19,10 @@ Workflow
 - Recognize the parts of the table in the HTML and extract them separately (As figure shown below).
 - We use our regulation and method to get table information.
 - Exoport the extracted infomation to an Excel file
-***Our work mainly focuses on the last two items.***
+
 <img src='flow chart.png'>
 
+***Our work mainly focuses on the last two items.***
 
 ## Compare with Other Software
 
