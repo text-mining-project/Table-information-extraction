@@ -11,18 +11,17 @@ Our preparatory work was based on [PDFminer](https://github.com/euske/pdfminer/)
 has various capabilities for working with PDF files (we are only interested in one of them, the ability to parse them into HTML)
 
 Workflow
----
+----
 
 - Obtain the related paper from DOCX file (2326587T_LeiyuTian_ENG5059P_FinalReport_2018.docx)
 - Using web crawler or artificial extraction to extract the corresponding papers in batches.
 - Using PDFminer convert it to HTML files in bulk.
 - Recognize the parts of the table in the HTML and extract them separately (As figure shown below).
-<img src='flow chart.png'>
 - We use our regulation and method to get table information.
-- Export the extracted information to an excel file
+- Exoport the extracted infomation to an Excel file
+***Our work mainly focuses on the last two items.***
+<img src='flow chart.png'>
 
-
-*Our work mainly focuses on the last two items.*
 
 ## Compare with Other Software
 
@@ -31,16 +30,15 @@ Workflow
   between items to identify the rows and columns, much as human’s eye does when scanning a page.  It is designed to work reliably with
   large quantities of data to produce the best output from given PDF. 
 ### PDFtoXLS
-  This includes several steps. Quality Conversions. Table Recovery. Headers and Footers. Form Recognition. Rotated Text Recovery. Hyper-
-  -link Detection. Merging logical tables. List detection. OCR. It is able to extract comparatively complete information from pdf files.
+  This includes several steps. Quality Conversions. Table Recovery. Headers and Footers. Form Recognition. Rotated Text Recovery. Hyper- link Detection. Merging logical tables. List detection. OCR. It is able to extract comparatively complete information from pdf files.
 ### SimplyPDF
   It is a free and easy way to use online PDF to XLS converter to extract tables trapped in PDF files, without having to install any
   software. This software is capable of extracting relatively complicated tables.
  
--All the testing result can be seen in the paperfile.
+- All the testing result can be seen in the paperfile.
 
 
--*All software here are not open-source and require pricing except SimplyPDF.*
+- *All software here are not open-source and require pricing except SimplyPDF.*
 
 
 
